@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "544418079620",
+    "project_id": "finance-tracker-mobile-fcc13",
+    "storage_bucket": "finance-tracker-mobile-fcc13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544418079620:android:d72da59860eef27817b3d1",
+        "android_client_info": {
+          "package_name": "com.example.blockchain_landregistry1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544418079620-bkpa212dsub0495ndnj9d6h6mlp3eroj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtDnMBu3dYn2SZkYLwZV-_wFs76qCqIg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544418079620-bkpa212dsub0495ndnj9d6h6mlp3eroj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544418079620-dvnu15bbddbf19k7hsb7ikoe1dcqbfpj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.financeTrackerMobileapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544418079620:android:23c274445eb8407917b3d1",
+        "android_client_info": {
+          "package_name": "com.example.finance_tracker_mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544418079620-nerfa14s7cc5fjd0kcb6e9tv5hjujlj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finance_tracker_mobileapp",
+            "certificate_hash": "434096626de3bbf90d9a5b61a63edfe5bbdf9b48"
+          }
+        },
+        {
+          "client_id": "544418079620-bkpa212dsub0495ndnj9d6h6mlp3eroj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtDnMBu3dYn2SZkYLwZV-_wFs76qCqIg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544418079620-bkpa212dsub0495ndnj9d6h6mlp3eroj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544418079620-dvnu15bbddbf19k7hsb7ikoe1dcqbfpj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.financeTrackerMobileapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
